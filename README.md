@@ -5,3 +5,8 @@
 - 📫 How to reach me: sankalpmukim@gmail.com
 - ⚡ Fun fact: WIP
 
+Technical member at
+
+- IEEE-ISA VIT
+- IEEE-IAS VIT
+- Digit Squad VIT
