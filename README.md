@@ -23,7 +23,7 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpmukim&theme=radical&layout=compact&langs_count=10&hide=C%23)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
 - 🔭 I’m currently working on learning(multiple small projects).
-- 🌱 I’m currently learning full stack web development(django, MERN stack).
+- 🌱 I’m currently learning full stack web development(React, Next, MERN stack, Django).
 - 📫 How to reach me: sankalpmukim@gmail.com
 - One of my favorite projects! [Visit](https://sankalpmukim.github.io/numpuz-with-react)
 
