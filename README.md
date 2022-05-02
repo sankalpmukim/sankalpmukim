@@ -1,3 +1,58 @@
+Hello! Honored to have you here!\
+I'm a Full stack developer (React enthusiast) who's always looking for an opportunity to learn and build cool stuff.
+- 🔭 I’m currently working on learning Flutter and Go.
+- 🌱 I have a diverse skill set including fields Cloud, Frontend, Backend.
+- 📫 How to reach me: sankalpmukim@gmail.com
+- One of my favorite projects! [Visit](https://sankalpmukim.github.io/numpuz-with-react)
+
+
+## About me
+I am a 2nd year student studying in VIT university, Vellore. I love cool tech. I literally optimiezed my own password for speed(xD). \
+I like to get a deep understanding of a technology before coding in it. This helps me write the best quality code and has made me good at learning very fast. 
+
+### Frontend Skills
+ - React (expert)
+ - Next
+ - Tailwind
+
+### Backend Skills
+ - Nodejs
+ - GraphQL
+ - Python (Flask, FastAPI, Django)
+
+### Cloud skills
+ - Azure (Pursuing certification right now)
+ - GCP
+ - AWS
+
+### Past experience(working in teams):
+ - React App development lead on a project at [IoTReady](https://iotready.co/)
+ - Software developer at [VITspot](https://vitspot.com/about)
+
+### My best projects (and what I learnt while making them)
+ - [Tweet Dog Pics](https://sankalpmukim.github.io/tweet-about-dogs/)
+    - This project helped me to transform from a just javascript developer to someone who's not scared of a CSS and can accurately follow a simple to intermediate Figma design
+ - [VIT Trekking Club](https://vit-trekking-club.github.io/vtc-website-2022/)
+    - Basic animations and a decent looking site
+ - [Numpuz](https://sankalpmukim.github.io/numpuz-with-react/)
+    - Built this early in my React learning phase and kept improving it to get better at its concepts
+    - I learnt
+         - Complex state management
+         - Efficient UI (Avoiding unnecessary rerenders) with multiple changing components.
+ - [Reviewzon](https://sankalpmukim.github.io/reviewzon-frontend/) 
+    - Built a pretty cool and easily extendible terminal component from scrath (In page 3)
+    - Worked with IBM's Sentiment Analysis API
+ - [Court Hero](https://issomeonebeatingcock.fun/) 
+    - Complex 3 tier architecture (Frontend, backend, Nodes (Like raspberry pi)) and how they talk with each other.
+
+### **Connect with me:**
+<p align="left">
+<a href="https://www.linkedin.com/in/sankalpmukim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameeshagireesh" height="30" width="40" /></a>
+<a href="https://instagram.com/sankalpmukim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notameesha" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/ameejuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ameejuana" height="30" width="40" /></a> -->
+<!-- <a href="https://codeforces.com/profile/ameejuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ameejuana" height="30" width="40" /></a> -->
+</p>
+
 [![Sankalp's github stats](https://github-readme-stats.vercel.app/api?username=sankalpmukim&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpmukim&theme=radical)](https://youtu.be/CLxWprrhIOo)
 ### **Languages and Tools:**
@@ -24,21 +79,8 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <!-- <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  -->
  </p>
- 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpmukim&theme=radical&layout=compact&langs_count=10&hide=C%23)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
-- 🔭 I’m currently working on learning(multiple small projects).
-- 🌱 I’m currently learning full stack web development(React, Next, MERN stack, Django).
-- 📫 How to reach me: sankalpmukim@gmail.com
-- One of my favorite projects! [Visit](https://sankalpmukim.github.io/numpuz-with-react)
-
-Software developer at [VITspot](https://vitspot.com/about)
-
-### **Connect with me:**
-<p align="left">
-<a href="https://www.linkedin.com/in/sankalpmukim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameeshagireesh" height="30" width="40" /></a>
-<a href="https://instagram.com/sankalpmukim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notameesha" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/ameejuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ameejuana" height="30" width="40" /></a> -->
-<!-- <a href="https://codeforces.com/profile/ameejuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ameejuana" height="30" width="40" /></a> -->
-</p>
+ 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sankalpmukimreadme)
