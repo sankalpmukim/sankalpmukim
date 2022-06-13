@@ -80,7 +80,7 @@ I like to get a deep understanding of a technology before coding in it. This hel
 <!-- <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  -->
  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpmukim&theme=radical&layout=compact&langs_count=10&hide=C%23)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpmukim&theme=radical&layout=compact&langs_count=5&hide=C%23,html,css,shell,powershell,dockerfile)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sankalpmukimreadme)
