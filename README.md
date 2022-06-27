@@ -1,6 +1,6 @@
 Hello! Honored to have you here!\
 I'm a Full stack developer (React enthusiast) who's always looking for an opportunity to learn and build cool stuff.
-- 🔭 I’m currently working on learning Flutter and Go.
+- 🔭 I’m currently working on learning Go.
 - 🌱 I have a diverse skill set including fields Cloud, Frontend, Backend.
 - 📫 How to reach me: sankalpmukim@gmail.com
 - One of my favorite projects! [Visit](https://sankalpmukim.github.io/numpuz-with-react)
