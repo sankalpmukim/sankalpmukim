@@ -75,7 +75,8 @@ I like to get a deep understanding of a technology before coding in it. This hel
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://hasura.io/" target="_blank"> <img src="https://media.discordapp.net/attachments/923537917526306857/937766405904924722/unknown.png" alt="hasura" width="40" height="40"/> </a> 
+ <a href="https://hasura.io/" target="_blank"> <img src="https://media.discordapp.net/attachments/923537917526306857/937766405904924722/unknown.png" alt="hasura" width="40" height="40"/> </a>
+ <a href="https://d3js.org/" target="_blank"> <img src="https://d3js.org/favicon.png" alt="d3js" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <!-- <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  -->
  </p>
