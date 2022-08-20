@@ -6,6 +6,8 @@ I'm a Full stack developer (React enthusiast) who's always looking for an opport
 - One of my favorite projects! [Visit](https://sankalpmukim.github.io/numpuz-with-react)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpmukim&theme=radical)](https://youtu.be/CLxWprrhIOo)
+
 ## About me
 I am a 2nd year student studying in VIT university, Vellore. I love cool tech. I literally optimized my own password for speed(xD). \
 I like to get a deep understanding of a technology before coding in it. This helps me write the best quality code and has made me good at learning very fast. 
@@ -54,7 +56,6 @@ I like to get a deep understanding of a technology before coding in it. This hel
 </p>
 
 [![Sankalp's github stats](https://github-readme-stats.vercel.app/api?username=sankalpmukim&theme=radical&show_icons=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpmukim&theme=radical)](https://youtu.be/CLxWprrhIOo)
 ### **Languages and Tools:**
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
