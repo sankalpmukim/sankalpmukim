@@ -9,7 +9,7 @@ I'm a Full stack developer (React enthusiast) who's always looking for an opport
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpmukim&theme=radical)](https://youtu.be/CLxWprrhIOo)
 
 ## About me
-I am a 2nd year student studying in VIT university, Vellore. I love cool tech. I literally optimized my own password for speed(xD). \
+I am a 3rd year student studying in VIT university, Vellore. I love cool tech. I literally optimized my own password for speed(xD). \
 I like to get a deep understanding of a technology before coding in it. This helps me write the best quality code and has made me good at learning very fast. 
 
 ### Frontend Skills
