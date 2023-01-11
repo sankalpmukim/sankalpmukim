@@ -5,6 +5,8 @@ I'm a Full stack developer (React enthusiast) who's always looking for an opport
 - 📫 How to reach me: sankalpmukim@gmail.com
 - One of my favorite projects! [Visit](https://sankalpmukim.github.io/numpuz-with-react)
 
+[![Programming Languages](https://api.githubtrends.io/user/svg/sankalpmukim/langs?time_range=one_year&include_private=True&theme=dark)](https://youtu.be/y8OnoxKotPQ)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpmukim&theme=radical)](https://youtu.be/CLxWprrhIOo)
 
