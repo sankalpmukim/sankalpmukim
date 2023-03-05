@@ -1,8 +1,9 @@
 Hello! Honored to have you here!\
 I'm a Full stack developer (React enthusiast) who's always looking for an opportunity to learn and build cool stuff.
-- 🔭 I’m currently working on learning Go.
-- 🌱 I have a diverse skill set including fields Cloud, Frontend, Backend.
+- 🔭 I’m currently working on learning Go, databases
+- 🌱 I have a diverse skill set including fields Backend, Devops, Frontend.
 - 📫 How to reach me: sankalpmukim@gmail.com
+- My website: [sankalpmukim.dev](https://sankalpmukim.dev)
 - One of my favorite projects! [Visit](https://sankalpmukim.github.io/numpuz-with-react)
 
 [![Programming Languages](https://api.githubtrends.io/user/svg/sankalpmukim/langs?time_range=one_year&include_private=True&theme=dark)](https://youtu.be/y8OnoxKotPQ)
@@ -21,13 +22,14 @@ I like to get a deep understanding of a technology before coding in it. This hel
 
 ### Backend Skills
  - Nodejs
+ - NestJS (expert)
  - GraphQL
  - Python (Flask, FastAPI, Django)
 
 ### Cloud skills
- - Azure (Pursuing certification right now)
- - GCP
  - AWS
+ - Azure
+ - GCP
 
 ### Past experience(working in teams):
  - React App development lead on a project at [IoTReady](https://iotready.co/)
