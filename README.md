@@ -51,6 +51,12 @@ I like to get a deep understanding of a technology before coding in it. This hel
  - [Court Hero](https://issomeonebeatingcock.fun/) 
     - Complex 3 tier architecture (Frontend, backend, Nodes (Like raspberry pi)) and how they talk with each other.
 
+## **My Main Certifications**
+ - Introduction to Nginx
+   - Completed on 25 April 2023
+   - Completed on Udemy
+   - [Certificate](https://ude.my/UC-7e3822d5-eeae-4ea2-85fa-559e87acc8aa)
+
 ### **Connect with me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/sankalpmukim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ameeshagireesh" height="30" width="40" /></a>
