@@ -4,7 +4,7 @@ I'm a Full stack developer (React enthusiast) who's always looking for an opport
 - 🌱 I have a diverse skill set including fields Backend, Devops, Frontend.
 - 📫 How to reach me: sankalpmukim@gmail.com
 - My website: [sankalpmukim.dev](https://sankalpmukim.dev)
-- One of my favorite projects! [Visit](https://sankalpmukim.github.io/numpuz-with-react)
+- One of my favorite projects! [Visit](https://numpuz.sankalpmukim.dev)
 
 [![Programming Languages](https://api.githubtrends.io/user/svg/sankalpmukim/langs?time_range=one_year&include_private=True&theme=dark)](https://youtu.be/y8OnoxKotPQ)
 
@@ -34,13 +34,13 @@ I like to get a deep understanding of a technology before coding in it. This hel
 ### Past experience(working in teams):
  - React App development lead on a project at [IoTReady](https://iotready.co/)
  - Software developer at [VITspot](https://vitspot.com/about)
+ - App dev at [Indiahikes](https://indiahikes.com/)
+ - Backend engineer at [North of Zero](https://www.northofzero.dev)
 
 ### My best projects (and what I learnt while making them)
  - [Tweet Dog Pics](https://sankalpmukim.github.io/tweet-about-dogs/)
     - This project helped me to transform from a just javascript developer to someone who's not scared of a CSS and can accurately follow a simple to intermediate Figma design
- - [VIT Trekking Club](https://vit-trekking-club.github.io/vtc-website-2022/)
-    - Basic animations and a decent looking site
- - [Numpuz](https://sankalpmukim.github.io/numpuz-with-react/)
+ - [Numpuz](https://numpuz.sankalpmukim.dev/)
     - Built this early in my React learning phase and kept improving it to get better at its concepts
     - I learnt
          - Complex state management
