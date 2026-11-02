@@ -39,16 +39,17 @@ What I've actually shipped, maintained, or contributed to over the last two year
 - **[RSS Card API](https://github.com/sankalpmukim/cf-rss-parser-readme)** — Cloudflare Worker that turns any RSS feed into a themeable SVG card you can embed in a README or website.
 - **[IBM Cloud Docs MCP Server](https://github.com/sankalpmukim/ibm-cloud-docs-mcp-server)** — MCP server that lets AI clients search IBM Cloud documentation. Also upstreamed into IBM's official MCP collection.
 - **[NGINX Reference](https://github.com/sankalpmukim/nginx-reference)** — Curated cookbook of production nginx configurations, organized by use case.
+- **[Kohli Hundreds](https://viratkohlicenturytracker.vercel.app)** — Just a fun side project for my passion for cricket and my Kohli fandom: a live tracker for his international hundreds and his status in any ongoing India ODI.
 - **YT Ledger _(private)_** — Expense-manager-style ledger for my YouTube watch history: watch events become transactions, channels become categories.
 
 ### Learning by building
 
 - **[HTTP from TCP](https://github.com/sankalpmukim/httpfromtcp)** — HTTP/1.1 server implemented from scratch on raw TCP sockets in Go.
 - **[my-react](https://github.com/sankalpmukim/my-react)** — A from-scratch React/JSX TypeScript API built to understand what React actually does under the hood.
-- **[MonkeyType Scam](https://github.com/sankalpmukim/monkeytype-scam)** — Proof of concept showing that typing tests can be gamed by reading the words and synthesizing keystrokes.
+- **[MonkeyType Scam](https://github.com/sankalpmukim/monkeytype-scam)** — One very fun evening spent poking at accessibility tools and gaming MonkeyType's typing test into a record-high score.
 - **[Numpuz](https://github.com/sankalpmukim/numpuz-with-react)** — An earlier build: a multiplayer puzzle game made to learn React, Firebase, and WebSockets, with a real-time leaderboard. Still live at [numpuz.sankalpmukim.dev](https://numpuz.sankalpmukim.dev).
 
-### Sites I've shipped
+### Sites I've shipped (paid freelancing work)
 
 | Site | What it is |
 |---|---|
@@ -57,7 +58,6 @@ What I've actually shipped, maintained, or contributed to over the last two year
 | **[Rock & Stone](https://rockandstone-website.vercel.app)** | Website for a natural-stone company serving architects, builders, and luxury homeowners. |
 | **[Thunder Brand Solutions](https://thunder-brand-website.vercel.app)** | Website for a branding agency. |
 | **[Son Chiraiya](https://sonchiraiya.co)** | Website for an authentic Indian restaurant in Varanasi. |
-| **[Kohli Hundreds](https://viratkohlicenturytracker.vercel.app)** | Live tracker for Virat Kohli's international hundreds and his status in any ongoing India ODI. |
 
 ### Contributions outside my repos
 
