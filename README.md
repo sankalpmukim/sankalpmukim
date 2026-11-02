@@ -30,7 +30,7 @@ What I've actually shipped, maintained, or contributed to over the last two year
 
 ### Tools I built
 
-- **[AWS Accounts Manager](https://github.com/sankalpmukim/aws-accounts-manager)** — Client-side browser extension for securely managing and switching AWS accounts. **150+ active users**; CI auto-publishes to Chrome, Edge, and Firefox.
+- **[AWS Accounts Manager](https://github.com/sankalpmukim/aws-accounts-manager)** — Client-side browser extension for securely managing and switching AWS accounts. **250+ active users**, **300+ installs**; CI auto-publishes to Chrome, Edge, and Firefox.
 - **[OpenCode Notifier v2](https://github.com/sankalpmukim/opencode-notifier-v2)** — OpenCode plugin that plays sounds and sends desktop notifications when a permission is needed, a generation completes, or an error occurs.
 - **[Simple TOTP Manager](https://github.com/sankalpmukim/simple-totp-manager)** — Minimal Chrome and Firefox authenticator: local secret storage, live countdown, CSV export/import.
 - **[oc-zai-key-manager](https://github.com/sankalpmukim/oc-zai-key-manager)** — OpenCode plugin that round-robins multiple z.ai coding-plan keys, detects quota exhaustion, and retries automatically.
@@ -46,6 +46,7 @@ What I've actually shipped, maintained, or contributed to over the last two year
 - **[HTTP from TCP](https://github.com/sankalpmukim/httpfromtcp)** — HTTP/1.1 server implemented from scratch on raw TCP sockets in Go.
 - **[my-react](https://github.com/sankalpmukim/my-react)** — A from-scratch React/JSX TypeScript API built to understand what React actually does under the hood.
 - **[MonkeyType Scam](https://github.com/sankalpmukim/monkeytype-scam)** — Proof of concept showing that typing tests can be gamed by reading the words and synthesizing keystrokes.
+- **[Numpuz](https://github.com/sankalpmukim/numpuz-with-react)** — An earlier build: a multiplayer puzzle game made to learn React, Firebase, and WebSockets, with a real-time leaderboard. Still live at [numpuz.sankalpmukim.dev](https://numpuz.sankalpmukim.dev).
 
 ### Sites I've shipped
 
