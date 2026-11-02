@@ -14,16 +14,6 @@ I currently work in **IBM Cloud**, building AI agents that solve everyday operat
 
 ---
 
-## Everyday stack
-
-| | |
-|---|---|
-| **Agents** | [`T3 Code`](https://t3.codes/) · [`OpenCode`](https://opencode.ai/) · [`GrokBot`](https://x.ai/bot) |
-| **Models** | `GLM-5.3` · `Grok 4.6` / `4.7` · local LLMs |
-| **Dictation** | [`Hex`](https://github.com/anomalyco/hex) — local voice dictation by the OpenCode team |
-
----
-
 ## Proof of work — the last two years
 
 What I've actually shipped, maintained, or contributed to over the last two years. No fluff — just code that runs and sites that are live.
@@ -72,6 +62,16 @@ What I've actually shipped, maintained, or contributed to over the last two year
 - **[rphlmr/drizzle-lab #58](https://github.com/rphlmr/drizzle-lab/pull/58)** — Switched the schema visualizer to bezier edges.
 - **[tailwindlabs/tailwindcss-intellisense #1572](https://github.com/tailwindlabs/tailwindcss-intellisense/pull/1572)** — Added a "Fix All Auto-fixable Problems" command.
 - **[planetscale/database-skills #14](https://github.com/planetscale/database-skills/pull/14)** — Added a SQLite skill and surfaced it across the docs and site.
+
+---
+
+## Everyday stack
+
+| | |
+|---|---|
+| **Agents** | [`T3 Code`](https://t3.codes/) · [`OpenCode`](https://opencode.ai/) · [`GrokBot`](https://x.ai/bot) |
+| **Models** | `GLM-5.3` · `Grok 4.6` / `4.7` · local LLMs |
+| **Dictation** | [`Hex`](https://github.com/anomalyco/hex) — local voice dictation by the OpenCode team |
 
 ---
 
