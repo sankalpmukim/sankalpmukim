@@ -18,7 +18,7 @@ I currently work in **IBM Cloud**, building AI agents that solve everyday operat
 
 | | |
 |---|---|
-| **Agents** | `T3 Code` · `OpenCode` · `GrokBot` |
+| **Agents** | [`T3 Code`](https://t3.codes/) · [`OpenCode`](https://opencode.ai/) · [`GrokBot`](https://x.ai/bot) |
 | **Models** | `GLM-5.3` · `Grok 4.6` / `4.7` · local LLMs |
 | **Dictation** | [`Hex`](https://github.com/anomalyco/hex) — local voice dictation by the OpenCode team |
 
@@ -44,7 +44,7 @@ What I've actually shipped, maintained, or contributed to over the last two year
 
 ### Learning by building
 
-- **[HTTP from TCP](https://github.com/sankalpmukim/httpfromtcp)** — HTTP/1.1 server implemented from scratch on raw TCP sockets in Go.
+- **[HTTP from TCP](https://github.com/sankalpmukim/httpfromtcp)** — HTTP/1.1 server implemented from scratch on raw TCP sockets in Go.<br>Still in production: [http.sankalpmukim.dev](http://http.sankalpmukim.dev) serves the same Next.js site that Vercel hosts at [sankalpmukim.dev](https://sankalpmukim.dev) — on a VPS, through this hand-written HTTP server.
 - **[my-react](https://github.com/sankalpmukim/my-react)** — A from-scratch React/JSX TypeScript API built to understand what React actually does under the hood.
 - **[MonkeyType Scam](https://github.com/sankalpmukim/monkeytype-scam)** — One very fun evening spent poking at accessibility tools and gaming MonkeyType's typing test into a record-high score.
 - **[Numpuz](https://github.com/sankalpmukim/numpuz-with-react)** — An earlier build: a multiplayer puzzle game made to learn React, Firebase, and WebSockets, with a real-time leaderboard. Still live at [numpuz.sankalpmukim.dev](https://numpuz.sankalpmukim.dev).
