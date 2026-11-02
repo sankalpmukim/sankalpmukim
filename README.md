@@ -20,9 +20,9 @@ What I've actually shipped, maintained, or contributed to over the last two year
 
 ### Tools I built
 
-- **[AWS Accounts Manager](https://github.com/sankalpmukim/aws-accounts-manager)** — Client-side browser extension for securely managing and switching AWS accounts. **250+ active users**, **300+ installs**; CI auto-publishes to Chrome, Edge, and Firefox.
+- **[AWS Accounts Manager](https://github.com/sankalpmukim/aws-accounts-manager)** ([Chrome Web Store](https://chromewebstore.google.com/detail/aws-accounts-manager/hkcpaihoknnbgfaehgcihpidbkhmfacj)) — Client-side browser extension for securely managing and switching AWS accounts. **250+ active users**, **300+ installs**; CI auto-publishes to Chrome, Edge, and Firefox.
 - **[OpenCode Notifier v2](https://github.com/sankalpmukim/opencode-notifier-v2)** — OpenCode plugin that plays sounds and sends desktop notifications when a permission is needed, a generation completes, or an error occurs.
-- **[Simple TOTP Manager](https://github.com/sankalpmukim/simple-totp-manager)** — Minimal Chrome and Firefox authenticator: local secret storage, live countdown, CSV export/import.
+- **[Simple TOTP Manager](https://github.com/sankalpmukim/simple-totp-manager)** ([Chrome Web Store](https://chromewebstore.google.com/detail/simple-totp-manager/fbldnilamcajffalfgnfgbliedfpnofk)) — Minimal Chrome and Firefox authenticator: local secret storage, live countdown, CSV export/import.
 - **[oc-zai-key-manager](https://github.com/sankalpmukim/oc-zai-key-manager)** — OpenCode plugin that round-robins multiple z.ai coding-plan keys, detects quota exhaustion, and retries automatically.
 - **[Hadolint LSP](https://github.com/sankalpmukim/hadolint-lsp)** — Language Server implementation for Hadolint that brings Dockerfile linting into any LSP-capable editor.
 - **[forgot-content-type-json-header](https://marketplace.visualstudio.com/items?itemName=SankalpMukim.forgot-content-type-json-header)** — VS Code extension that catches the one header everyone forgets when POSTing JSON.
@@ -72,6 +72,12 @@ What I've actually shipped, maintained, or contributed to over the last two year
 | **Agents** | [`T3 Code`](https://t3.codes/) · [`OpenCode`](https://opencode.ai/) · [`GrokBot`](https://x.ai/bot) |
 | **Models** | `GLM-5.3` · `Grok 4.6` / `4.7` · local LLMs |
 | **Dictation** | [`Hex`](https://github.com/anomalyco/hex) — local voice dictation by the OpenCode team |
+
+---
+
+## Articles I've written
+
+[![Articles I've written](https://cf-rss-parser-readme.sankalpmukim.workers.dev/api/rss-card?feed_url=https%3A%2F%2Fsankalpmukim.dev%2Frss%2Ffeed.xml&theme=github&count=4&title=Articles%20I%27ve%20Written)](https://sankalpmukim.dev)
 
 ---
 
