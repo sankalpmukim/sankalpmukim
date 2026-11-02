@@ -1,142 +1,81 @@
 # Sankalp Mukim
 
-**Software Engineer** | Infrastructure & Backend Specialist
-Delhi NCR, India | 1 Year of Professional Experience
+**Software Engineer @ IBM Cloud** · Delhi NCR, India
 
-📞 +91-9821041537 | 📧 [sankalpmukim@gmail.com](mailto:sankalpmukim@gmail.com)
-[GitHub](https://github.com/sankalpmukim) | [LinkedIn](https://linkedin.com/in/sankalpmukim) | [Website](https://sankalpmukim.dev)
+[LinkedIn](https://www.linkedin.com/in/sankalpmukim/) · [Website](https://sankalpmukim.dev) · [Email](mailto:sankalpmukim@gmail.com)
 
 ---
 
-## About Me
+## About me
 
-I'm a software engineer with 1 year of professional experience specializing in infrastructure, backend systems, and DevOps. At ION Group, I led cost optimization initiatives, designed scalable systems, and managed cloud infrastructure across AWS, Azure, and GCP. I'm passionate about building robust systems, optimizing performance at scale, and learning deep technical concepts before implementing them.
+I'm a generalist full-stack engineer — a nerd at heart. I like digging deep into technical concepts until they stop feeling like magic, and I'm constantly picking up new AI-agent tricks to maximize my own productivity.
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sankalpmukim&theme=radical)](https://github.com/sankalpmukim)
-
----
-
-## 💼 Professional Experience
-
-### **ION Group – Software Engineer (Infrastructure)**
-_Jan 2024 – Present | Delhi NCR_
-
-- **AWS Cost Reduction:** Led initiative reducing monthly AWS costs by 33% (~$11,000/month) through Compute Savings Plans, S3 lifecycle policies, and cleanup of 30M+ S3 objects
-- **Infrastructure & DevOps:** Automated workflows with Python and Shell; managed database migrations, backups, and Infrastructure-as-Code deployments via AWS and CI/CD pipelines
-- **Monitoring & Analytics:** Built Python data pipeline + React dashboard integrated with MySQL and PowerBI for internal and client reporting
-- **Trading Infrastructure:** Developed Java-based Market Factory integration for high-frequency trading systems; improved unified libraries for internal teams
-
-### **North of Zero – Software Engineer**
-_Jun 2023 – Aug 2023 | Remote_
-
-- **Payment Gateway Integration:** Integrated Amazon Pay (Payfort) into React web and React Native applications
-- **Transaction Management:** Implemented Transactions entity and state tracking with webhooks and health checks
-- **Authentication:** Developed AWS Cognito + Lambda Custom Auth Flow for mobile OTP authentication
-- **DevOps & Deployment:** Managed CI/CD pipelines and deployments for multiple production services
-
-### **Streak (YC W22) – Freelancer**
-_Oct 2023 – Nov 2023 | Remote_
-
-- Built Django-based Attribution Analytics Platform comparing Meta and Google Ads data
-- Created in-house URL Shortener with usage analytics for ad optimization
-
-### **Other Internships**
-- **IOTReady** – Jan 2021 – Mar 2021
-- **Indiahikes** – Oct 2022 – Jan 2023
+I currently work in **IBM Cloud**, building AI agents that solve everyday operational problems — including agents that automatically triage and resolve incidents happening in IBM Cloud.
 
 ---
 
-## 🧠 Technical Skills
+## Everyday stack
 
-**Languages:** Java, Go, Typescript, Python, C
-
-**Backend & Frameworks:** NestJS, GoFiber, FastAPI, Django, Flask, NodeJS, GraphQL
-
-**Frontend:** ReactJS, React Native, Tailwind, Next.js
-
-**Infrastructure & DevOps:** AWS, Azure, GCP, Docker, CI/CD Pipelines, Shell Scripting
-
-**Databases:** PostgreSQL, MongoDB, GORM, Prisma
-
-**Tools & Platforms:** Git, Linux, Postman, GitHub Actions, AWS Lambda, Firebase
+| | |
+|---|---|
+| **Agents** | `T3 Code` · `OpenCode` · `GrokBot` |
+| **Models** | `GLM-5.3` · `Grok 4.6` / `4.7` · local LLMs |
+| **Dictation** | [`Hex`](https://github.com/anomalyco/hex) — local voice dictation by the OpenCode team |
 
 ---
 
-## 🧩 Notable Projects
+## Proof of work — the last two years
 
-### [AWS Accounts Manager](https://github.com/sankalpmukim/aws-accounts-manager)
-_Typescript, React, Plasmo, GitHub Actions, AWS | Oct 2022_
-- Cross-platform browser extension with **150+ active users**
-- Automated deployments to Chrome, Edge, and Firefox via CI/CD pipelines
-- Simplified AWS account switching for developers
+What I've actually shipped, maintained, or contributed to over the last two years. No fluff — just code that runs and sites that are live.
 
-### [Cryptic Hunt](https://github.com/ACM-VIT/cryptic-hunt-backend)
-_Typescript, Prisma, PostgreSQL, Firebase, Node-Cache, Docker, AWS | Oct 2022_
-- Led team deployment of scalable backend supporting **500+ concurrent users**
-- Designed normalized database schema and caching layer for efficient leaderboard queries
-- Real-time updates and high-performance data retrieval
+### Tools I built
 
-### [Court Hero](https://github.com/sankalpmukim/court-hero-node)
-_Raspberry Pi, Python, OpenCV, Next.js, FastAPI, Docker, WebSockets | Mar 2023_
-- Distributed ML + Computer Vision system for real-time badminton court analysis
-- Raspberry Pi nodes capturing video, Python backend processing with OpenCV
-- Real-time WebSocket communication for live analytics
+- **[AWS Accounts Manager](https://github.com/sankalpmukim/aws-accounts-manager)** — Client-side browser extension for securely managing and switching AWS accounts. **150+ active users**; CI auto-publishes to Chrome, Edge, and Firefox.
+- **[OpenCode Notifier v2](https://github.com/sankalpmukim/opencode-notifier-v2)** — OpenCode plugin that plays sounds and sends desktop notifications when a permission is needed, a generation completes, or an error occurs.
+- **[Simple TOTP Manager](https://github.com/sankalpmukim/simple-totp-manager)** — Minimal Chrome and Firefox authenticator: local secret storage, live countdown, CSV export/import.
+- **[oc-zai-key-manager](https://github.com/sankalpmukim/oc-zai-key-manager)** — OpenCode plugin that round-robins multiple z.ai coding-plan keys, detects quota exhaustion, and retries automatically.
+- **[Hadolint LSP](https://github.com/sankalpmukim/hadolint-lsp)** — Language Server implementation for Hadolint that brings Dockerfile linting into any LSP-capable editor.
+- **[forgot-content-type-json-header](https://marketplace.visualstudio.com/items?itemName=SankalpMukim.forgot-content-type-json-header)** — VS Code extension that catches the one header everyone forgets when POSTing JSON.
+- **[RSS Card API](https://github.com/sankalpmukim/cf-rss-parser-readme)** — Cloudflare Worker that turns any RSS feed into a themeable SVG card you can embed in a README or website.
+- **[IBM Cloud Docs MCP Server](https://github.com/sankalpmukim/ibm-cloud-docs-mcp-server)** — MCP server that lets AI clients search IBM Cloud documentation. Also upstreamed into IBM's official MCP collection.
+- **[NGINX Reference](https://github.com/sankalpmukim/nginx-reference)** — Curated cookbook of production nginx configurations, organized by use case.
+- **YT Ledger _(private)_** — Expense-manager-style ledger for my YouTube watch history: watch events become transactions, channels become categories.
 
-### [Numpuz](https://github.com/sankalpmukim/numpuz-with-react)
-_React, Firebase, React Context, Dark Mode | Mar 2023_
-- Multiplayer, UI-intensive puzzle game with real-time leaderboard
-- State management optimization for smooth gameplay experience
-- Deployed at [numpuz.sankalpmukim.dev](https://numpuz.sankalpmukim.dev)
+### Learning by building
 
----
+- **[HTTP from TCP](https://github.com/sankalpmukim/httpfromtcp)** — HTTP/1.1 server implemented from scratch on raw TCP sockets in Go.
+- **[my-react](https://github.com/sankalpmukim/my-react)** — A from-scratch React/JSX TypeScript API built to understand what React actually does under the hood.
+- **[MonkeyType Scam](https://github.com/sankalpmukim/monkeytype-scam)** — Proof of concept showing that typing tests can be gamed by reading the words and synthesizing keystrokes.
 
-## 📜 Certifications & Credentials
+### Sites I've shipped
 
-- **AWS Certified Solutions Architect – Associate**
-- **Introduction to Nginx** (Udemy)
-- **Practical Networking** (Udemy)
+| Site | What it is |
+|---|---|
+| **[The Rodeo Lane](https://www.therodeolane.com)** | Site + ERP for a high-end automotive detailing studio in Varanasi — memberships, coupons, GST billing, service reminders. |
+| **[Vardasustain Consulting](https://nm-ogss-website-frontend.vercel.app)** | Website for a sustainability consulting practice. |
+| **[Rock & Stone](https://rockandstone-website.vercel.app)** | Website for a natural-stone company serving architects, builders, and luxury homeowners. |
+| **[Thunder Brand Solutions](https://thunder-brand-website.vercel.app)** | Website for a branding agency. |
+| **[Son Chiraiya](https://sonchiraiya.co)** | Website for an authentic Indian restaurant in Varanasi. |
+| **[Kohli Hundreds](https://viratkohlicenturytracker.vercel.app)** | Live tracker for Virat Kohli's international hundreds and his status in any ongoing India ODI. |
 
----
+### Contributions outside my repos
 
-## 🎓 Education
+**Merged**
 
-**Vellore Institute of Technology**
-_B.Tech in Computer Science Engineering | Sept 2020 – Aug 2024 | Vellore, India_
+- **[cloudflare/vinext #178](https://github.com/cloudflare/vinext/pull/178)** — Added standalone self-host output and aligned init production scripts.
+- **[IBM/mcp #7](https://github.com/IBM/mcp/pull/7)** — Added the IBM Cloud Docs MCP Server.
+- **[elastic/kibana #221627](https://github.com/elastic/kibana/pull/221627)** — Fixed a grammar typo in an error message.
 
-**G. D. Goenka School**
-_CBSE Class 12 | Apr 2011 – Mar 2020 | East Delhi, India_
+**Open**
 
----
-
-## 🤝 Leadership & Extracurriculars
-
-### **Association for Computing Machinery – VIT**
-_Web Development & DevOps | Dec 2021 – Apr 2023_
-- Managed scalable backend for gaming events supporting 500+ users
-- Mentored peers in Typescript, Go, Prisma, and ReactJS
-
-### **VITspot – Web Development**
-_May 2021 – Jul 2022_
-- Built student calendar integration tool serving 500+ daily active users
+- **[rphlmr/drizzle-lab #58](https://github.com/rphlmr/drizzle-lab/pull/58)** — Switched the schema visualizer to bezier edges.
+- **[tailwindlabs/tailwindcss-intellisense #1572](https://github.com/tailwindlabs/tailwindcss-intellisense/pull/1572)** — Added a "Fix All Auto-fixable Problems" command.
+- **[planetscale/database-skills #14](https://github.com/planetscale/database-skills/pull/14)** — Added a SQLite skill and surfaced it across the docs and site.
 
 ---
 
-## 📊 GitHub Stats
+## Connect
 
-[![Sankalp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sankalpmukim&theme=radical&show_icons=true)](https://github.com/sankalpmukim)
+[LinkedIn](https://www.linkedin.com/in/sankalpmukim/) · [sankalpmukim.dev](https://sankalpmukim.dev) · [sankalpmukim@gmail.com](mailto:sankalpmukim@gmail.com)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpmukim&theme=radical&layout=compact&langs_count=5&hide=C%23,html,css,shell,powershell,dockerfile)](https://github.com/sankalpmukim)
-
----
-
-## 🤳 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/sankalpmukim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/sankalpmukim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</p>
-
----
-
-_Last updated: November 2025_
+_Last updated: November 2026_
