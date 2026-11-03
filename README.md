@@ -30,7 +30,7 @@ What I've actually shipped, maintained, or contributed to over the last two year
 - **[IBM Cloud Docs MCP Server](https://github.com/sankalpmukim/ibm-cloud-docs-mcp-server)** — MCP server that lets AI clients search IBM Cloud documentation. Also upstreamed into IBM's official MCP collection.
 - **[NGINX Reference](https://github.com/sankalpmukim/nginx-reference)** — Curated cookbook of production nginx configurations, organized by use case.
 - **[Kohli Hundreds](https://viratkohlicenturytracker.vercel.app)** — Just a fun side project for my passion for cricket and my Kohli fandom: a live tracker for his international hundreds and his status in any ongoing India ODI.
-- **YT Ledger _(private)_** — Expense-manager-style ledger for my YouTube watch history: watch events become transactions, channels become categories.
+- **[YT Ledger](https://github.com/sankalpmukim/yt-history-poc)** ([v0.9.0 release](https://github.com/sankalpmukim/yt-history-poc/releases/tag/v0.9.0)) — Browser extension that tracks your YouTube watch history like an expense manager: value-scored categories and subcategories, auto-categorization rules, insights, and watch-time budgets that can nudge or hide over-budget videos.
 
 ### Learning by building
 
